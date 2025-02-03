@@ -8,22 +8,22 @@ Suppose we have three types of characters in a GameApp:
 2. Wizard: Casts spells; uses magic barrier to defend
 3. Archer: Shoots arrows; uses dodge to to defend
 
-Implement two types of Strategy:
-A.  DefenseStrategy
-     1. Shield
-     2. Dodge
-     3. CreateMagic
+<h2>Implement two types of Strategy: <br></h2>
+<h3>A. DefenseStrategy <br></h3>
+     1. Shield <br>
+     2. Dodge <br>
+  <p>3. CreateMagic <br></p>
 
-B.  AttackStrategy
-     1.  CastSpell
-     2.  ShootArrow
-     3.  SwingSword  
+<h3>B. AttackStrategy</h3>
+     1.  CastSpell <br>
+     2.  ShootArrow <br>
+  <p>3.  SwingSword  <br></p>
 
 
 Refactor the existing codes and provide the UML Diagram:
 
-public class Character 
-{
+public class Character <br>
+{<br>
     private String type;
 
     public Character(String type) 
