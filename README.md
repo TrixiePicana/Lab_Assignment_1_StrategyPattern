@@ -70,4 +70,4 @@ public class Character <br>
 
 <h2>UML Diagram</h2> <br>
 
-[file:///C:/Users/dell/Downloads/Lab%20Assignment%201_%20Strategy%20Pattern.pdf](path/to/your/file.pdf)
+![Description of Image](https://github.com/TrixiePicana/Lab_Assignment_1_StrategyPattern/blob/main/Screenshot%202025-02-09%20231546.png)
