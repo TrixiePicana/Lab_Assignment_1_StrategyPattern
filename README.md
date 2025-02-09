@@ -66,3 +66,6 @@ public class Character <br>
         }
     }
 }
+
+
+<h2>UML Diagram</h2> <br>
