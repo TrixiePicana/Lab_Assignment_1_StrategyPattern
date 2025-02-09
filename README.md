@@ -23,8 +23,8 @@ Suppose we have three types of characters in a GameApp:
 Refactor the existing codes and provide the UML Diagram:
 
 public class Character <br>
-{<br>
-    private String type;
+{
+    <br>private String type;
 
     public Character(String type) 
     {
